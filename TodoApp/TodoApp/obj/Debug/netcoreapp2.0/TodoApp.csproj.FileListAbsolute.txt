@@ -1,0 +1,11 @@
+/home/vividmaniac/Documents/TodoApp/TodoApp/obj/Debug/netcoreapp2.0/TodoApp.csprojAssemblyReference.cache
+/home/vividmaniac/Documents/TodoApp/TodoApp/obj/Debug/netcoreapp2.0/TodoApp.csproj.CoreCompileInputs.cache
+/home/vividmaniac/Documents/TodoApp/TodoApp/obj/Debug/netcoreapp2.0/TodoApp.AssemblyInfoInputs.cache
+/home/vividmaniac/Documents/TodoApp/TodoApp/obj/Debug/netcoreapp2.0/TodoApp.AssemblyInfo.cs
+/home/vividmaniac/Documents/TodoApp/TodoApp/bin/Debug/netcoreapp2.0/TodoApp.deps.json
+/home/vividmaniac/Documents/TodoApp/TodoApp/bin/Debug/netcoreapp2.0/TodoApp.runtimeconfig.json
+/home/vividmaniac/Documents/TodoApp/TodoApp/bin/Debug/netcoreapp2.0/TodoApp.runtimeconfig.dev.json
+/home/vividmaniac/Documents/TodoApp/TodoApp/bin/Debug/netcoreapp2.0/TodoApp.dll
+/home/vividmaniac/Documents/TodoApp/TodoApp/bin/Debug/netcoreapp2.0/TodoApp.pdb
+/home/vividmaniac/Documents/TodoApp/TodoApp/obj/Debug/netcoreapp2.0/TodoApp.dll
+/home/vividmaniac/Documents/TodoApp/TodoApp/obj/Debug/netcoreapp2.0/TodoApp.pdb
